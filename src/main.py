@@ -2,6 +2,7 @@ import sys
 import time
 
 from watchdog.observers import Observer
+
 from events import FileEventHandler
 
 

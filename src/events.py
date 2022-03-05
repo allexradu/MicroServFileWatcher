@@ -1,13 +1,13 @@
 import os
-import pathlib
-from os import walk
-from watchdog.events import RegexMatchingEventHandler
-from enum import Enum
 import re
-from shutil import copyfile, rmtree
-from sys import exit
 import sys
 import time
+from enum import Enum
+from os import walk
+from shutil import copyfile, rmtree
+from sys import exit
+
+from watchdog.events import RegexMatchingEventHandler
 
 
 class EventType(Enum):
