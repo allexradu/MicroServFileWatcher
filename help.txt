@@ -1,0 +1,1 @@
+python main.py Common "txt|js|ts" "TestMainDir1|TestMainDir2|TestMainDir3" /Users/allexradu/Python/MicroServFileWatcher/test/
