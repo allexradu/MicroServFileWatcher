@@ -36,7 +36,7 @@ Example:
 
 ### Windows:
 
-Copy the ms.exe on your C: folder and add the file to the [Path](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+Copy the ms.exe on your C: drive and add the file to the [Path](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
 
 Use the ms command in the Command Prompt
 
