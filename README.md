@@ -46,6 +46,7 @@ Copy the ms file to:
 
 `/usr/local/bin`
 
-Use the md command in the terminal
+Use the ms command in the terminal
 
 ### Dev: Allex Radu
+[MIT License](https://github.com/allexradu/MicroServFileWatcher/blob/main/LICENSE)
