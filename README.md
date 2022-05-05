@@ -48,9 +48,5 @@ Copy the ms file to:
 
 Use the ms command in the terminal
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/allexradu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Dev: Allex Radu
 [MIT License](https://github.com/allexradu/MicroServFileWatcher/blob/main/LICENSE)
